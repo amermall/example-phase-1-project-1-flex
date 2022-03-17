@@ -1,0 +1,4 @@
+NOTES.md
+
+# Ignore Mac system files
+.DS_store
